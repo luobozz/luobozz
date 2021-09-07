@@ -29,20 +29,22 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Vue-informational?&logo=Vue.js&logoColor=white&color=2775b6)
 ![](https://img.shields.io/badge/Shell-Bash-informational?&logo=gnu-bash&logoColor=white&color=2775b6)
 ![](https://img.shields.io/badge/Tools-Docker-informational?&logo=docker&logoColor=white&color=2775b6)
+<br/>
 
 ## &#x1f4c8; GitHub top-langs
 
 <a href="https://github.com/luobozz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luobozz&theme=onedark&count_private=true&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luobozz&theme=graywhite&count_private=true&layout=compact"/>
 </a>
+<br/>
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/luobozz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luobozz&show_icons=true&theme=onedark&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luobozz&show_icons=true&theme=graywhite&count_private=true" />
 </a>
-
+<br/>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luobozz&theme=onedark&count_private=true)](https://github.com/luobozz)
+[![trophy](https://github-profile-trophy.vercel.app/?username=luobozz&theme=graywhite&count_private=true)](https://github.com/luobozz)
