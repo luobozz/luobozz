@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/luobozz/luobozz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luobozz&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=4a4035" alt="Zhenye's GitHub Stats" />
+<a href="https://github.com/luobozz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luobozz&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=2e3440" alt="Zhenye's GitHub Stats" />
 </a>
 
-<a href="https://github.com/luobozz/luobozz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luobozz&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=4a4035" alt="Zhenye's GitHub Stats" />
+<a href="https://github.com/luobozz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luobozz&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=2e3440" alt="Zhenye's GitHub Stats" />
 </a>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luobozz&theme=nord&column=7)](https://github.com/luobozz/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=luobozz&theme=nord&column=7)](https://github.com/luobozz)
