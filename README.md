@@ -30,13 +30,14 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Shell-Bash-informational?&logo=gnu-bash&logoColor=white&color=2775b6)
 ![](https://img.shields.io/badge/Tools-Docker-informational?&logo=docker&logoColor=white&color=2775b6)
 
-
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub top-langs
 
 <a href="https://github.com/luobozz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luobozz&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=2e3440" alt="Zhenye's GitHub Stats" />
 </a>
-<br/>
+
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/luobozz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luobozz&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=2e3440" alt="Zhenye's GitHub Stats" />
 </a>
